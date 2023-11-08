@@ -2,3 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+.mediumbuttonText {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+
+.input-bordered:focus {
+ border : none;
+}
+
+
